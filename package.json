@@ -1,0 +1,14 @@
+{
+  "name": "honeycutt-work-portfolio",
+  "version": "1.0.0",
+  "description": "https://thefrenchman1.github.io/Honeycutt-Work-Portfolio/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
